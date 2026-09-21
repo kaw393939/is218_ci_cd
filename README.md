@@ -1,1 +1,1 @@
-# is218_ci_cd
+# IS218 CI / CD Workshop
